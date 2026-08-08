@@ -23,13 +23,28 @@ Python, Streamlit, Pandas, NumPy, Scikit-learn, Plotly, OpenPyXL
 
 ## Running Locally
 
-```bash
-git clone https://github.com/yuvam44/PulseMetrics.git
+git clone https://github.com/yourusername/PulseMetrics.git
 cd PulseMetrics
 python -m venv venv
-venv\Scripts\activate   # Windows
+venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
-```
 
 ## Project Structure
+
+PulseMetrics/
+├── app.py
+├── tools/
+│   ├── market_analysis.py
+│   ├── forecasting.py
+│   └── kpi_dashboard.py
+├── data/
+├── requirements.txt
+└── README.md
+
+## Notes
+
+Opportunity Score, Competition Score, and Business Health Score are
+custom rule-based composite metrics designed for this project, not
+outputs of a trained ML model. The forecasting tool uses a genuine
+trained Linear Regression model via scikit-learn.
