@@ -17,6 +17,17 @@ skills using Python.
   inventory, customer satisfaction, a composite Business Health Score) with
   filterable date ranges and CSV export.
 
+## Screenshots
+
+### Market Analysis
+![Market Analysis](assets/screenshots/market_analysis.png)
+
+### Demand Forecasting
+![Demand Forecasting](assets/screenshots/forecasting.png)
+
+### Business KPI Dashboard
+![KPI Dashboard](assets/screenshots/kpi_dashboard.png)
+
 ## Tech Stack
 
 Python, Streamlit, Pandas, NumPy, Scikit-learn, Plotly, OpenPyXL
