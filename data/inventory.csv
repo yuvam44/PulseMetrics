@@ -1,0 +1,6 @@
+product_id,product_name,stock_level,reorder_point,unit_cost
+101,Wireless Earbuds Pro,150,50,22.00
+102,Smart Watch X1,80,30,45.00
+103,Noise Cancelling Headphones,60,25,65.00
+104,Gaming Mouse RGB,250,80,8.00
+105,Mechanical Keyboard,90,40,35.00

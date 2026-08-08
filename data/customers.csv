@@ -1,0 +1,11 @@
+customer_id,name,total_orders,total_spent,is_returning,satisfaction_score
+1,Alice Johnson,5,450.00,1,4.5
+2,Bob Smith,2,120.00,0,3.8
+3,Carol White,8,890.00,1,4.7
+4,David Lee,1,60.00,0,3.2
+5,Emma Davis,6,610.00,1,4.4
+6,Frank Moore,3,210.00,0,4.0
+7,Grace Kim,10,1200.00,1,4.8
+8,Henry Clark,4,340.00,1,4.1
+9,Ivy Wilson,2,150.00,0,3.6
+10,Jack Turner,7,720.00,1,4.6
