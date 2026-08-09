@@ -62,5 +62,5 @@ trained Linear Regression model via scikit-learn.
 
 ## Developed By
 
-Yuvam
-Ayush Kumar
+1) Yuvam
+2) Ayush Kumar
