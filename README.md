@@ -59,3 +59,8 @@ Opportunity Score, Competition Score, and Business Health Score are
 custom rule-based composite metrics designed for this project, not
 outputs of a trained ML model. The forecasting tool uses a genuine
 trained Linear Regression model via scikit-learn.
+
+## Developed By
+
+Yuvam
+Ayush Kumar
